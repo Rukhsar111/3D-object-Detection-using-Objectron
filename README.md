@@ -1,7 +1,7 @@
 # 3D-object-Detection-using-Objectron
 3D View object Detection 
 
-This project aims to achieve the 3d object Detection using **MediaPipe Objectron**. 2D object detection provides only the  2D Bounding Boxes whereas 3D object detection provides you 3D boxes ,Orientation, Size and  Volume of the object as well.
+This project aims to achieve the 3d object Detection using **MediaPipe Objectron**. 2D object detection provides only the  2D Bounding Boxes whereas 3D object detection provides you 3D boxes From which We can get the Orientation, Size and  Volume of the object.
 
 
 ![cup 0](https://user-images.githubusercontent.com/54540404/218277619-cd5a8b67-8d48-426c-be23-49e0b801cf28.png) 
